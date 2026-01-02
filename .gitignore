@@ -1,0 +1,8 @@
+#files
+*.c.un
+*.c~
+*.exe
+
+
+#folders
+build/
